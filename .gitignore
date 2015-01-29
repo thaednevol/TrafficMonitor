@@ -8,7 +8,14 @@
 *.class
 
 # Generated files
-bin/
+bin/classes
+bin/dexedLibs
+bin/res
+bin/AndroidManifest.xml
+bin/classes.dex
+bin/jarlist.cache
+bin/R.txt
+bin/resources.ap_
 gen/
 
 # Gradle files
